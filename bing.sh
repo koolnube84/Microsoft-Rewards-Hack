@@ -1,0 +1,36 @@
+sudo clear
+for run in {1..3}
+do
+  echo "Starting Bing Search Hack"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	open -a "Google Chrome" "bing.html"
+	sleep 10
+	sudo killall "Google Chrome"
+	sleep 3
+done
+open -a "Google Chrome" "http://www.bing.com"
+echo "Done"
